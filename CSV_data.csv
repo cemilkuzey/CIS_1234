@@ -1,0 +1,565 @@
+ID,Gender,MaritalStatus,EducationLevel,Field,Experience,Happiness,TakeAdditionalCourse,Position,Sector,Age,SatisfiedMySalary,WagePolicyFairness,SatisfiedNonWageCompensation,SatisfiedMyWork,SatisfiedMyOrganization,ManagementAttitude,WageReward,ColleaguesAttitude,WorkingConditions,JobSecurity,FinancialPerformance,NonFinancialPerformance
+1,Male,Married,PhD,Education,11 - 15 Years,Yes,No,Staff,State,41,Agree,Agree,Agree,Strongly agree,Strongly agree,4.17,4.14,4,4.83,4.5,3.75,4
+2,Female,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,State,37,Disagree,Disagree,Disagree,Agree,Agree,3.75,2.43,4.33,4.5,3.5,3,3.25
+3,Female,Married,PhD,Education,11 - 15 Years,Yes,No,Mid-level manager,State,34,Agree,Agree,Agree,Agree,Agree,3.75,4,4.33,4,4.5,4,3.75
+4,Male,Married,Bachelor,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,28,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.92,1.86,3,2.5,3.5,1.5,2.25
+5,Male,Married,Bachelor,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,Private,38,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.75,1.86,3.67,3.83,4.5,3.5,3.75
+6,Male,Married,PhD,Health Care,6 - 10 Years,No,Yes,Expert,Private,36,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.75,1.71,3.83,4.17,5,3.5,3.25
+7,Male,Married,Master,Education,1 - 5 Years,Yes,No,Expert,Private,28,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,3.25,3.14,4,3.67,2,3,2.5
+8,Male,Married,PhD,Education,6 - 10 Years,Yes,No,Staff,State,29,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.42,4.71,4.5,4.83,1,3,3.5
+9,Female,Married,Master,Education,1 - 5 Years,Yes,Yes,Expert,Private,26,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4,4.71,4.33,4.5,4,3.25,3
+10,Male,Married,PhD,Education,11 - 15 Years,No,Yes,Staff,State,36,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,3.83,3.43,2.83,4.17,3,3,3
+11,Female,Married,Master,Education,1 - 5 Years,Yes,No,Staff,State,27,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Disagree,3.17,2.57,3.83,2.5,1,2.75,2.25
+12,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Senior manager,Private,33,Agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.83,4.14,4,4.67,4,3,3
+13,Male,Married,PhD,Education,6 - 10 Years,Yes,No,Staff,State,33,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Agree,3.75,4,4.67,4.33,2.5,3.5,3.25
+14,Male,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Expert,Private,50,Strongly disagree,Strongly disagree,Agree,Agree,Agree,3.58,2.43,3.67,3.83,4.5,1.75,1.5
+15,Male,Married,PhD,Health Care,21 + Years,Yes,Yes,Expert,Private,62,Agree,Agree,Agree,Strongly agree,Strongly agree,4.25,4.29,4.83,4.83,5,4.25,4.25
+16,Female,Married,Bachelor,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,State,34,Disagree,Strongly disagree,Strongly disagree,Agree,Neither agree nor disagree,3.42,1.86,4.5,3.5,3,2.75,2.75
+17,Female,Married,Master,Health Care,1 - 5 Years,Yes,No,Staff,State,25,Disagree,Disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,2.92,3,3,2.83,3.5,3.25,4
+18,Male,Married,PhD,Health Care,21 + Years,Yes,No,Expert,Private,47,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,2.42,2.86,2.83,3.33,4.5,3,2.25
+19,Female,Married,Master,Health Care,11 - 15 Years,Yes,No,Staff,State,41,Neither agree nor disagree,Agree,Strongly disagree,Agree,Agree,2.17,2.29,1.5,2.83,5,4,4
+20,Male,Married,Master,Health Care,16 - 20 Years,Yes,No,Staff,State,42,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neither agree nor disagree,3.25,1.29,4.17,1.83,5,3,2.25
+21,Male,Married,Master,Health Care,16 - 20 Years,Yes,No,Staff,State,42,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,3.17,1.29,3.33,1.5,5,2.75,1.5
+22,Female,Married,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,State,38,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Strongly agree,4.58,3.14,3.83,4.33,3.5,4.25,4.25
+23,Female,Married,PhD,Health Care,16 - 20 Years,Yes,No,Mid-level manager,State,42,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,3.83,3.43,3.67,4,5,3.25,4
+24,Male,Married,Master,Education,1 - 5 Years,No,No,Staff,State,26,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,3.92,3.14,3.83,3.83,4,2.75,2.75
+25,Female,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Expert,Private,42,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,2.5,2.71,2.67,3.17,3.5,2.5,3
+26,Female,Married,Bachelor,Health Care,1 - 5 Years,Yes,No,Mid-level manager,State,29,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.75,4.29,4,5,5,3.75,4
+27,Male,Married,PhD,Health Care,11 - 15 Years,No,No,Mid-level manager,Private,37,Neither agree nor disagree,Disagree,Strongly disagree,Disagree,Disagree,1.92,1.71,2,2.67,4,2,2
+28,Male,Married,PhD,Health Care,11 - 15 Years,No,Yes,Expert,Private,36,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,2,1.29,3.5,1.33,4.5,2.75,3
+29,Female,Married,Master,Education,6 - 10 Years,Yes,Yes,Expert,Private,31,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,3.29,3.33,4.67,4.5,2.75,3.25
+30,Female,Married,PhD,Health Care,11 - 15 Years,Yes,Yes,Expert,Private,41,Disagree,Disagree,Strongly disagree,Agree,Agree,3,1.86,3,3.33,5,1,1.25
+31,Female,Married,Bachelor,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,State,33,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly disagree,2.5,1.57,3.67,2.33,3.5,3.75,3.75
+32,Female,Married,Bachelor,Health Care,11 - 15 Years,No,Yes,Staff,State,35,Neither agree nor disagree,Strongly disagree,Disagree,Agree,Disagree,2.33,1.71,4.5,2.5,1.5,1,1.5
+33,Female,Married,Master,Health Care,16 - 20 Years,No,No,Staff,State,44,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.25,1.57,1.5,3,2,3,3
+34,Female,Married,Master,Finance,16 - 20 Years,Yes,Yes,Expert,Private,43,Disagree,Disagree,Strongly disagree,Disagree,Disagree,1.92,1.43,1,2.17,5,2,2
+35,Female,Married,PhD,Health Care,11 - 15 Years,Yes,Yes,Expert,Private,36,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly disagree,Strongly disagree,1.58,2.86,3.67,2.67,1,1,1
+36,Female,Married,Bachelor,Finance,6 - 10 Years,No,No,Staff,State,41,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.42,1.86,2.83,2.17,2.5,3,3
+37,Male,Married,PhD,Education,21 + Years,Yes,Yes,Senior manager,Private,47,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4,4.71,3.83,4.83,3,5,5
+38,Male,Married,Master,Finance,21 + Years,Yes,Yes,Mid-level manager,Private,51,Strongly agree,Agree,Agree,Agree,Agree,3.75,4.14,3.5,4.17,4,2.75,2.5
+39,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+40,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+41,Male,Married,Bachelor,Finance,21 + Years,Yes,Yes,Senior manager,Private,48,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4,3.29,4.17,4.5,4.5,4,4
+42,Female,Married,PhD,Education,21 + Years,Yes,No,Mid-level manager,State,48,Strongly disagree,Disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,2.58,1.71,2.17,3.17,5,4,4
+43,Female,Married,Master,Health Care,6 - 10 Years,No,No,Staff,State,32,Disagree,Strongly disagree,Agree,Disagree,Neither agree nor disagree,3.58,3.29,2,2.67,2,5,4.75
+44,Female,Married,Master,Health Care,6 - 10 Years,No,No,Staff,State,32,Disagree,Strongly disagree,Agree,Disagree,Neither agree nor disagree,3.58,3.29,2,2.67,2,5,4.75
+45,Male,Married,Bachelor,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,43,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,4.67,4.43,4.83,5,4.5,4.25,3.75
+46,Male,Married,Bachelor,Finance,21 + Years,Yes,No,Mid-level manager,Private,48,Strongly agree,Agree,Strongly agree,Agree,Agree,4.17,4.29,3.67,3.83,4.5,3.25,3.5
+47,Female,Married,Master,Education,16 - 20 Years,No,No,Expert,Private,35,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.92,1.86,2.83,2.17,5,1,1.75
+48,Male,Married,Bachelor,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,Private,40,Agree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,3.58,3.57,2.83,3.17,3.5,2.25,2.75
+49,Female,Married,PhD,Education,6 - 10 Years,Yes,No,Staff,State,32,Agree,Agree,Agree,Agree,Strongly agree,4.58,3.71,3.17,3.5,5,4,4
+50,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,24,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.67,3.29,4.17,4.33,4.5,3.75,3.5
+51,Female,Married,PhD,Education,1 - 5 Years,No,No,Staff,State,29,Agree,Agree,Agree,Agree,Agree,4.25,4,3.67,3.83,4,3,2.75
+52,Female,Married,Master,Health Care,6 - 10 Years,Yes,Yes,Staff,State,32,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.33,1.86,3.5,3.67,5,3,3
+53,Male,Married,Bachelor,Production,21 + Years,Yes,Yes,Senior manager,Private,48,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.83,4,4.17,4.17,4,4,4.75
+54,Female,Married,Bachelor,Health Care,1 - 5 Years,Yes,No,Mid-level manager,State,25,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.5,2.43,4,3,3,2,3.25
+55,Male,Married,Bachelor,Education,1 - 5 Years,Yes,No,Staff,State,23,Agree,Agree,Neither agree nor disagree,Agree,Agree,3.08,3.71,3.67,3.67,2.5,3.75,4.25
+56,Male,Married,Bachelor,Information Technology,21 + Years,Yes,Yes,Senior manager,Private,49,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,3.92,3.71,3.67,3.67,4.5,3.5,3.25
+57,Male,Married,Master,Education,6 - 10 Years,Yes,No,Staff,State,32,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,2.86,2.33,3.17,2.5,3,2.75
+58,Male,Married,Master,Education,21 + Years,Yes,No,Expert,Private,45,Agree,Agree,Disagree,Agree,Disagree,2.33,2.43,2.5,2.5,1,2.5,2
+59,Female,Married,Bachelor,Production,11 - 15 Years,No,Yes,Expert,Private,35,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3,2.14,2.33,3,3,3.5,2.75
+60,Male,Married,PhD,Education,6 - 10 Years,Yes,No,Staff,State,33,Agree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.25,2.29,2.5,2.33,1,2.75,2.25
+61,Female,Married,Bachelor,Finance,6 - 10 Years,Yes,No,Operation manager,State,34,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.33,1.57,2.33,2.5,4,2.5,2.75
+62,Male,Married,PhD,Education,1 - 5 Years,Yes,Yes,Expert,Private,27,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,3.83,4,3.17,4.17,2,3.25,3.75
+63,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Mid-level manager,Private,38,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,3.58,4,2.83,4.5,5,3.75,4.75
+64,Male,Married,Bachelor,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.75,4.71,5,5,5,3.5,3.5
+65,Male,Married,Bachelor,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.75,4.71,5,5,5,3.5,3.5
+66,Female,Married,PhD,Health Care,16 - 20 Years,Yes,No,Mid-level manager,State,42,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Disagree,2.17,1.43,2,1.83,2.5,1.75,2.75
+67,Female,Married,Bachelor,Health Care,11 - 15 Years,Yes,No,Mid-level manager,State,31,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,4.83,3.29,5,4.5,5,3.5,3.25
+68,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.08,1,1,1.17,1,1,1
+69,Male,Married,Bachelor,Finance,11 - 15 Years,No,Yes,Mid-level manager,Private,34,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.92,4.86,5,5,5,4.25,4.5
+70,Male,Single,Bachelor,Finance,1 - 5 Years,No,Yes,Operation manager,State,25,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,4.17,4.29,3,4.83,5,4.5,4.75
+71,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,31,Disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,2,1.86,2,4.33,2,4,3.25
+72,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,23,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.67,4.71,4.5,4.83,4,4.75,4.75
+73,Male,Married,Bachelor,Finance,6 - 10 Years,Yes,Yes,Expert,Private,31,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.92,4.86,5,5,5,5,4.75
+74,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,Yes,Staff,State,30,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.67,3.86,4.83,4.83,5,5,4.75
+75,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,24,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,4.5,5
+76,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,29,Strongly agree,Disagree,Agree,Strongly agree,Strongly agree,4.67,3.71,4.83,4.67,4.5,4.25,4
+77,Female,Married,Master,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,State,32,Disagree,Disagree,Strongly disagree,Agree,Agree,3.75,2.71,4,3.83,3.5,3.5,4
+78,Female,Married,Master,Health Care,1 - 5 Years,Yes,No,Staff,State,25,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Disagree,1.67,1.57,2.67,2.5,1,1.25,1.75
+79,Female,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,23,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4.25,3.57,4,4.17,3.5,4,4
+80,Female,Married,PhD,Health Care,6 - 10 Years,Yes,No,Expert,Private,31,Disagree,Neither agree nor disagree,Agree,Agree,Agree,2.75,2.86,3,2.67,5,1,1
+81,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,No,Staff,State,31,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,4.58,2.57,4.67,4,4,4,4.25
+82,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Operation manager,State,34,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Agree,3.25,2,4.17,3.67,3.5,4,4
+83,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,24,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.75,4.71,4.33,5,4,4.5,5
+84,Male,Married,Bachelor,Finance,6 - 10 Years,No,No,Staff,State,28,Neither agree nor disagree,Agree,Strongly disagree,Strongly agree,Strongly agree,4.42,3.43,4.83,4.33,5,3.5,5
+85,Female,Married,Bachelor,Finance,6 - 10 Years,Yes,No,Staff,State,22,Disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.83,2.57,4.83,4,3.5,4,4
+86,Male,Married,Bachelor,Information Technology,1 - 5 Years,Yes,Yes,Operation manager,State,32,Agree,Agree,Agree,Strongly agree,Strongly agree,4.42,4.29,4.17,4.67,5,3.75,3.75
+87,Female,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,35,Neither agree nor disagree,Agree,Disagree,Strongly agree,Strongly agree,3.92,3.14,3.5,4.5,4.5,3.5,3.25
+88,Female,Married,Bachelor,Finance,6 - 10 Years,Yes,No,Staff,State,31,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Agree,3.92,2.43,4.17,3.67,3.5,4.25,4.25
+89,Female,Married,Bachelor,Finance,6 - 10 Years,No,No,Staff,State,27,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.58,1.86,4,3.5,3,4,3.75
+90,Female,Married,Bachelor,Finance,6 - 10 Years,Yes,Yes,Staff,State,27,Agree,Agree,Agree,Strongly agree,Strongly agree,4.75,4.29,4.67,4.83,5,5,5
+91,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,Yes,Expert,Private,30,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+92,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,24,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.75,2.86,4,3.5,3.5,4,4
+93,Male,Married,Bachelor,Finance,16 - 20 Years,Yes,Yes,Staff,State,37,Agree,Agree,Disagree,Agree,Agree,3.92,3.57,4.5,3.83,3.5,4.75,4.75
+94,Female,Married,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,28,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,3.42,2.43,2.17,3.67,2.5,4.75,4.25
+95,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Staff,State,25,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,4.75,4,5,4.67,2,4.75,4.25
+96,Male,Married,Bachelor,Finance,16 - 20 Years,Yes,Yes,Operation manager,State,39,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,4.75,4.71,5,5,5,4.75,4.5
+97,Female,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Senior manager,Private,38,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.75,2.86,4,4.17,4,3.5,3
+98,Female,Married,Master,Health Care,11 - 15 Years,No,Yes,Mid-level manager,State,33,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4,2.71,4,4,3,4,4
+99,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,No,Expert,Private,36,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,3.83,4.86,3.67,3.83,5,5,5
+100,Male,Married,Bachelor,Finance,6 - 10 Years,No,No,Expert,Private,32,Neither agree nor disagree,Disagree,Disagree,Strongly agree,Strongly agree,4.17,3.14,4,4.5,4.5,3.75,4
+101,Male,Married,PhD,Education,11 - 15 Years,Yes,No,Expert,Private,38,Agree,Agree,Agree,Agree,Agree,3.75,3.86,4,4,2.5,2.5,3.25
+102,Female,Married,Bachelor,Health Care,6 - 10 Years,Yes,No,Mid-level manager,State,32,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.17,2.29,2.67,2.67,2.5,3.25,3
+103,Female,Married,Bachelor,Health Care,6 - 10 Years,No,Yes,Mid-level manager,State,30,Disagree,Disagree,Disagree,Agree,Neither agree nor disagree,3.5,2.14,3.67,3.5,4,2.5,2
+104,Male,Married,Bachelor,Finance,6 - 10 Years,Yes,Yes,Expert,Private,34,Agree,Neither agree nor disagree,Disagree,Strongly agree,Strongly agree,3.92,3.43,3.83,4.17,4,4.5,4.25
+105,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Mid-level manager,Private,31,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,3.5,2.57,3.17,3.17,3,2,2.25
+106,Female,Married,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,30,Disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.42,2.86,3.17,3.5,3,3.5,3
+107,Female,Married,Master,Health Care,21 + Years,Yes,Yes,Expert,Private,49,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.33,1.57,3.5,3.17,4,2.5,2
+108,Male,Married,Bachelor,Education,16 - 20 Years,Yes,No,Staff,State,41,Agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,4.29,4.5,4.83,4.5,3.5,3.75
+109,Male,Married,Master,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.75,3.71,4.5,4.33,4.5,3.25,4.25
+110,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Staff,State,37,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,1.33,1.29,1,2.67,5,1,1
+111,Male,Married,Bachelor,Education,1 - 5 Years,No,No,Staff,State,27,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,3.5,1.43,3.83,3.17,4,3.25,3.25
+112,Female,Married,Bachelor,Information Technology,1 - 5 Years,Yes,No,Staff,State,25,Agree,Agree,Agree,Strongly agree,Strongly agree,4.92,4.29,4.67,5,4.5,4.25,5
+113,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Staff,State,26,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,4.08,3.29,4.33,4.5,4.5,4.5,4.5
+114,Male,Married,Bachelor,Education,6 - 10 Years,Yes,No,Staff,State,30,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,1.86,3.67,2.83,4.5,3.25,3.25
+115,Female,Married,Master,Finance,1 - 5 Years,Yes,No,Staff,State,25,Agree,Agree,Agree,Agree,Agree,4.25,4,4.17,4.17,4.5,4.75,4.25
+116,Female,Married,Master,Education,1 - 5 Years,Yes,Yes,Staff,State,25,Agree,Agree,Neither agree nor disagree,Agree,Agree,4.17,3.86,3.67,4.17,5,3.75,4
+117,Female,Married,PhD,Education,6 - 10 Years,Yes,Yes,Mid-level manager,State,35,Agree,Agree,Agree,Agree,Agree,4.17,3.43,4,3.67,4,3.75,4
+118,Male,Married,Bachelor,Finance,1 - 5 Years,No,No,Mid-level manager,Private,23,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.08,4,3.67,4.17,5,5,5
+119,Female,Married,Master,Education,1 - 5 Years,Yes,Yes,Expert,Private,33,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3.17,3.14,3.67,3.83,4,3.75,3.75
+120,Male,Married,PhD,Education,11 - 15 Years,Yes,No,Staff,State,40,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,3.42,3.14,3.33,3.83,4,3.25,3.75
+121,Female,Married,PhD,Education,21 + Years,Yes,Yes,Staff,State,53,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,4.5,2.57,3.83,4.5,4,3.25,4
+122,Male,Married,PhD,Education,16 - 20 Years,Yes,No,Mid-level manager,Private,40,Agree,Agree,Neither agree nor disagree,Agree,Agree,3.58,2.86,2.5,3.67,4.5,3,3.75
+123,Male,Married,Master,Education,1 - 5 Years,Yes,No,Expert,Private,28,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.83,2,3.83,3.33,4,1.5,1.25
+124,Male,Married,Master,Education,21 + Years,Yes,Yes,Senior manager,Private,59,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,3.83,3.29,4.5,3.67,1,3.75,3.75
+125,Male,Married,PhD,Education,11 - 15 Years,Yes,No,Mid-level manager,Private,38,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Agree,4.08,2.71,4,4.33,5,1.75,4.75
+126,Male,Married,PhD,Education,16 - 20 Years,Yes,No,Senior manager,Private,43,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.58,4.14,4.67,5,5,3,4.5
+127,Male,Married,PhD,Education,6 - 10 Years,Yes,No,Expert,Private,32,Agree,Disagree,Disagree,Strongly agree,Agree,4.25,3,3,4.67,5,4.75,4.25
+128,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Expert,Private,30,Disagree,Disagree,Disagree,Agree,Strongly agree,2.83,2.29,2.5,4,5,2.25,3
+129,Male,Married,Bachelor,Finance,6 - 10 Years,No,Yes,Mid-level manager,Private,36,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,4.25,3.57,4.5,4.17,4.5,4,4
+130,Male,Married,Master,Production,1 - 5 Years,Yes,No,Senior manager,Private,33,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.83,2.14,3.67,3.17,4.5,1,1.25
+131,Male,Married,PhD,Finance,11 - 15 Years,Yes,No,Expert,Private,35,Agree,Agree,Strongly disagree,Neither agree nor disagree,Agree,3.08,2.86,3.83,3.67,4.5,3.25,4
+132,Male,Married,PhD,Finance,21 + Years,No,Yes,Expert,Private,49,Agree,Agree,Neither agree nor disagree,Disagree,Disagree,1,2.29,1.83,1.83,3.5,2.5,1
+133,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Expert,Private,35,Neither agree nor disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.08,2.71,2.83,2.83,5,4,4
+134,Female,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,30,Disagree,Disagree,Neither agree nor disagree,Agree,Agree,4.25,2.43,3.17,3.33,3.5,4.5,4.75
+135,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Senior manager,Private,27,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.92,4.71,4.5,5,5,5,5
+136,Female,Married,Master,Production,6 - 10 Years,Yes,Yes,Staff,State,30,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.92,2.43,1.83,3.17,4.5,4,3.75
+137,Male,Married,Bachelor,Education,1 - 5 Years,No,No,Staff,State,26,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,1.33,1,2,2,1.5,1,1
+138,Male,Married,Bachelor,Education,1 - 5 Years,No,No,Staff,State,26,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,3.92,3.29,3.5,3,3.5,3.25,3.75
+139,Male,Married,PhD,Education,1 - 5 Years,Yes,Yes,Expert,Private,38,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,4.5,5
+140,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Staff,State,29,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,4,3.14,3.83,4.5,3,4,4.5
+141,Female,Married,Master,Education,6 - 10 Years,No,No,Expert,Private,32,Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.42,2.14,3.5,2.67,1,3,2
+142,Male,Married,Bachelor,Finance,21 + Years,Yes,Yes,Mid-level manager,Private,47,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.67,3.86,3.17,4,5,3.75,3.25
+143,Female,Married,Master,Production,6 - 10 Years,No,No,Staff,State,29,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.92,1.71,1.17,1.67,3,3.25,3.5
+144,Male,Married,PhD,Education,16 - 20 Years,No,No,Mid-level manager,Private,47,Disagree,Disagree,Disagree,Agree,Agree,3.75,2.57,2.67,3.67,4,3.25,3
+145,Male,Married,Master,Production,11 - 15 Years,No,Yes,Mid-level manager,Private,37,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,2.25,1.57,3.67,1.83,2.5,2.25,3.75
+146,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+147,Male,Married,Bachelor,Information Technology,11 - 15 Years,Yes,No,Expert,Private,38,Agree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.5,3,3.5,3.17,3.5,2,2.75
+148,Male,Married,Master,Production,6 - 10 Years,Yes,No,Expert,Private,33,Disagree,Disagree,Disagree,Disagree,Disagree,2.5,2,2.67,2.83,4.5,3.5,2.5
+149,Male,Married,Bachelor,Production,21 + Years,Yes,Yes,Staff,State,48,Agree,Agree,Agree,Agree,Agree,4,4,4,4,4,4,4
+150,Female,Married,PhD,Education,1 - 5 Years,Yes,No,Expert,Private,30,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,3.92,3.57,4,4.5,2.5,3.75,3.5
+151,Male,Married,Master,Finance,16 - 20 Years,No,No,Mid-level manager,Private,40,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.17,2.14,4.17,3.33,2.5,3,3
+152,Male,Married,PhD,Education,1 - 5 Years,Yes,Yes,Staff,State,46,Agree,Neither agree nor disagree,Disagree,Strongly agree,Agree,3.42,2.43,2,3.83,3.5,2.75,3
+153,Male,Married,PhD,Education,11 - 15 Years,Yes,No,Expert,Private,39,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,3.33,2.43,4,4.33,2.5,3.25,3.75
+154,Female,Married,Bachelor,Finance,6 - 10 Years,Yes,No,Staff,State,34,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,2.17,1.57,2,2.17,1,1.5,2.25
+155,Male,Married,Bachelor,Information Technology,21 + Years,Yes,Yes,Senior manager,Private,57,Agree,Agree,Agree,Strongly agree,Strongly agree,4.92,4,3.17,5,4.5,4.75,4.5
+156,Female,Married,Bachelor,Production,6 - 10 Years,No,No,Operation manager,State,29,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.33,1.29,1.17,2.5,2.5,4,3.75
+157,Male,Married,Master,Production,1 - 5 Years,Yes,No,Mid-level manager,Private,28,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly agree,4.42,2.43,2,4.83,4.5,3,3.75
+158,Male,Married,PhD,Education,6 - 10 Years,Yes,Yes,Staff,State,31,Disagree,Neither agree nor disagree,Disagree,Strongly agree,Disagree,3.17,2.71,3.83,3.17,5,3,3.25
+159,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Expert,Private,38,Agree,Disagree,Agree,Agree,Neither agree nor disagree,3.17,2.86,3.33,3,5,3,3
+160,Male,Married,Master,Finance,6 - 10 Years,No,No,Mid-level manager,Private,31,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.25,3,3.17,3,3,3.5,3.5
+161,Male,Married,PhD,Education,11 - 15 Years,Yes,Yes,Expert,Private,39,Neither agree nor disagree,Disagree,Disagree,Agree,Agree,2.75,2.43,2.83,3.17,2.5,3,3
+162,Male,Married,Bachelor,Production,6 - 10 Years,Yes,Yes,Senior manager,Private,32,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,4.25,4.5
+163,Male,Married,PhD,Education,21 + Years,Yes,No,Mid-level manager,Private,43,Disagree,Disagree,Strongly disagree,Disagree,Neither agree nor disagree,2.08,2.14,2.5,2.67,2,3.5,3
+164,Male,Married,PhD,Education,21 + Years,Yes,Yes,Mid-level manager,Private,49,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.08,3.71,4,4.5,5,4,4
+165,Male,Married,PhD,Education,16 - 20 Years,Yes,No,Mid-level manager,Private,44,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.67,3.57,3,4.17,4,4,4
+166,Male,Married,Master,Education,6 - 10 Years,Yes,No,Expert,Private,32,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Agree,3.08,1.71,3.83,3.83,3.5,1.75,2
+167,Male,Married,PhD,Education,11 - 15 Years,Yes,Yes,Staff,State,34,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,1.58,1.86,5,3.33,5,1,1
+168,Male,Married,Master,Education,16 - 20 Years,Yes,Yes,Mid-level manager,Private,42,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2,2.14,2.33,3.33,2.5,1.25,1.75
+169,Female,Married,Master,Health Care,6 - 10 Years,No,Yes,Staff,State,34,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.83,1.71,3.5,2.83,3.5,2.75,3
+170,Male,Married,Master,Finance,21 + Years,Yes,Yes,Mid-level manager,Private,43,Agree,Neither agree nor disagree,Disagree,Agree,Disagree,2.42,2.86,3,2.83,3,2,2
+171,Male,Married,Master,Health Care,16 - 20 Years,No,No,Mid-level manager,Private,40,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Agree,3.67,1.86,3.67,2.5,4.5,4,4
+172,Male,Married,Master,Health Care,21 + Years,Yes,Yes,Mid-level manager,Private,50,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.5,3.57,4.5,4.67,5,4.75,5
+173,Female,Married,Master,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,29,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,4.42,2.29,4.67,4,5,3.25,3.5
+174,Female,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,Private,42,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.25,1.57,3,2.5,5,3.5,4.5
+175,Female,Married,Master,Production,1 - 5 Years,Yes,No,Expert,Private,24,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.67,2.14,2.5,2.5,2,3.25,2.75
+176,Male,Married,Master,Education,16 - 20 Years,No,Yes,Expert,Private,41,Agree,Neither agree nor disagree,Disagree,Agree,Agree,2.5,3.29,3.83,3.17,4,2,3
+177,Female,Married,Master,Health Care,6 - 10 Years,Yes,Yes,Staff,State,32,Agree,Agree,Strongly disagree,Agree,Strongly disagree,2.42,2.14,3.83,2,4,2.75,3.25
+178,Female,Married,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,37,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,4.83,2.43,5,4.83,5,3.75,4
+179,Female,Married,Master,Health Care,6 - 10 Years,Yes,Yes,Staff,State,32,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree,Agree,3.5,2.29,2.5,3.67,4,4,4
+180,Female,Married,Bachelor,Health Care,16 - 20 Years,No,Yes,Staff,State,37,Neither agree nor disagree,Disagree,Strongly disagree,Strongly agree,Strongly agree,4.83,3,5,4.83,5,4.75,5
+181,Female,Married,Bachelor,Health Care,6 - 10 Years,No,No,Staff,State,33,Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly agree,Strongly agree,4,3.14,4.83,4.67,4.5,4.25,4.25
+182,Female,Married,Bachelor,Health Care,6 - 10 Years,No,No,Staff,State,28,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3,2.14,4.33,2.83,1,1.5,1.5
+183,Female,Married,Bachelor,Health Care,6 - 10 Years,No,Yes,Staff,State,31,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.75,1.86,4.83,3.33,3.5,3,3.5
+184,Female,Married,Bachelor,Health Care,1 - 5 Years,Yes,No,Staff,State,26,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,1.58,1.57,4.33,2.67,2,1,1.5
+185,Female,Married,Bachelor,Health Care,16 - 20 Years,Yes,No,Staff,State,36,Agree,Neither agree nor disagree,Agree,Agree,Agree,3.67,3.29,4.5,3.67,4,3,3
+186,Female,Married,Bachelor,Education,21 + Years,Yes,No,Mid-level manager,Private,37,Disagree,Strongly disagree,Strongly disagree,Agree,Neither agree nor disagree,3.83,1.71,1.67,3.5,3,1,1
+187,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Operation manager,State,34,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.92,5,4.17,4.83,4.5,2.75,3.5
+188,Female,Married,Master,Education,1 - 5 Years,Yes,No,Staff,State,29,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,3.58,3,2,4.5,5,2,2
+189,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Senior manager,Private,28,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,4.67,2.71,4.5,4.5,5,4.5,4.75
+190,Male,Married,PhD,Education,6 - 10 Years,Yes,No,Staff,State,33,Strongly disagree,Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,2.83,2.43,2.83,3.5,5,2,2
+191,Female,Married,Master,Health Care,1 - 5 Years,Yes,Yes,Staff,State,36,Agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.5,4,4.67,4.67,3.5,5,5
+192,Female,Married,Master,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,Private,39,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.5,1.43,2.5,1.67,3,4.5,5
+193,Female,Married,Bachelor,Health Care,21 + Years,Yes,No,Staff,State,42,Agree,Agree,Neither agree nor disagree,Agree,Agree,4,3.71,4.5,3.67,4.5,4,4
+194,Male,Married,Master,Education,1 - 5 Years,Yes,No,Mid-level manager,Private,28,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,3.75,4.57,4,4.67,5,4.5,4.25
+195,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,29,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,2.83,2.71,3.83,3.17,2.5,2.25,2.25
+196,Male,Married,Master,Education,6 - 10 Years,Yes,No,Expert,Private,33,Neither agree nor disagree,Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,3.71,4,5,5,4.75,4.5
+197,Male,Married,PhD,Education,11 - 15 Years,No,No,Mid-level manager,Private,36,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4.17,3.43,3.5,4.33,5,3,3.25
+198,Female,Married,Bachelor,Health Care,16 - 20 Years,No,No,Staff,State,38,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.42,1.71,4.33,3.83,5,2.75,3.25
+199,Female,Married,Master,Health Care,11 - 15 Years,No,No,Staff,State,34,Agree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.42,2,3.5,2.5,4,3.25,3.5
+200,Female,Married,PhD,Health Care,16 - 20 Years,No,No,Staff,State,45,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,1.83,2.29,3.67,2.83,2.5,2.75,3
+201,Male,Married,Bachelor,Health Care,6 - 10 Years,Yes,No,Staff,State,30,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,3.08,1.86,2.33,2.5,4,2,2
+202,Female,Married,Bachelor,Health Care,1 - 5 Years,Yes,No,Expert,Private,32,Agree,Neither agree nor disagree,Disagree,Agree,Neither agree nor disagree,2.83,2.71,3.67,3,4,2.75,2.5
+203,Male,Married,PhD,Health Care,21 + Years,Yes,No,Senior manager,Private,57,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.33,4.14,3.67,3.33,5,4.75,5
+204,Male,Married,PhD,Education,6 - 10 Years,Yes,Yes,Staff,State,30,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,2.83,1.86,1.67,3.33,2,1.75,2.25
+205,Male,Married,Bachelor,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,35,Neither agree nor disagree,Disagree,Strongly disagree,Strongly disagree,Disagree,1.92,1.43,2,1.83,3,3,1.25
+206,Female,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,28,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.92,1.71,2.67,3.17,1,3.5,3.75
+207,Female,Married,Bachelor,Health Care,6 - 10 Years,No,No,Staff,State,33,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,1.5,1.29,3.17,2.5,4,2,1.5
+208,Female,Married,Master,Health Care,1 - 5 Years,Yes,Yes,Staff,State,31,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Agree,2.25,1.86,3.17,2.5,5,2.5,1.5
+209,Female,Married,PhD,Education,1 - 5 Years,Yes,No,Staff,State,28,Neither agree nor disagree,Agree,Disagree,Agree,Neither agree nor disagree,3.25,2.43,3.67,3.5,5,3,3
+210,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,Yes,Operation manager,State,36,Agree,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,4.17,3.71,3.83,4.17,5,2.75,3
+211,Male,Married,Master,Education,6 - 10 Years,Yes,Yes,Staff,State,35,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.42,4.29,3.5,4.67,5,3.5,3.75
+212,Male,Married,PhD,Finance,1 - 5 Years,No,Yes,Mid-level manager,Private,40,Strongly disagree,Disagree,Agree,Agree,Agree,4.42,2.14,3.5,2.67,5,2.75,2.25
+213,Female,Married,Bachelor,Health Care,21 + Years,No,Yes,Operation manager,State,46,Disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.25,2.14,3.33,3.33,3,2.5,3.5
+214,Female,Married,Bachelor,Finance,21 + Years,Yes,Yes,Operation manager,State,50,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Agree,3.75,2.29,3.33,3.5,4,3.25,4
+215,Female,Married,Master,Health Care,6 - 10 Years,No,Yes,Staff,State,30,Agree,Agree,Strongly disagree,Strongly disagree,Strongly disagree,2.5,3,2.67,1.33,5,2.75,2.75
+216,Female,Married,Bachelor,Finance,16 - 20 Years,Yes,No,Mid-level manager,Private,52,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,1.92,1.29,4.67,1.67,3,2.25,1.75
+217,Female,Married,Bachelor,Education,16 - 20 Years,Yes,Yes,Senior manager,Private,46,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,4.17,2.43,3,3.83,5,3.5,2.75
+218,Female,Married,Master,Health Care,21 + Years,No,Yes,Expert,Private,40,Disagree,Strongly agree,Strongly disagree,Disagree,Disagree,1.67,1.86,2,1.83,4.5,3.25,4.25
+219,Male,Married,Master,Education,6 - 10 Years,Yes,No,Mid-level manager,Private,38,Agree,Agree,Disagree,Agree,Agree,4,3.71,4.17,4.17,4.5,3.25,3.75
+220,Male,Married,Bachelor,Education,11 - 15 Years,Yes,Yes,Staff,State,38,Neither agree nor disagree,Disagree,Disagree,Strongly agree,Strongly agree,4.42,3.14,4.83,4.33,4.5,4.25,4.25
+221,Female,Married,Master,Health Care,16 - 20 Years,Yes,No,Senior manager,Private,42,Agree,Agree,Disagree,Agree,Strongly agree,4.58,3.71,4.17,4.5,5,3.5,3.75
+222,Female,Married,Bachelor,Health Care,16 - 20 Years,Yes,Yes,Mid-level manager,Private,49,Neither agree nor disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.42,2.86,4,3.5,3.5,4.25,4.25
+223,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,31,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.25,3.29,3.5,3.67,3,3.75,3.25
+224,Male,Married,Bachelor,Education,21 + Years,Yes,Yes,Mid-level manager,Private,40,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree,Agree,1.5,2.29,3.5,3.67,1,2.5,2.25
+225,Female,Married,Bachelor,Health Care,21 + Years,Yes,Yes,Mid-level manager,Private,48,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.75,2.43,3.33,3,2,2,2
+226,Female,Married,Bachelor,Education,21 + Years,Yes,Yes,Expert,Private,53,Disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.75,3.29,4.17,4.5,4.5,4.25,4.75
+227,Male,Married,PhD,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,42,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.75,3.43,3.5,3.67,3.5,3.75,3.5
+228,Male,Married,PhD,Education,11 - 15 Years,No,Yes,Expert,Private,36,Strongly disagree,Strongly disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.58,2.14,2.67,2.83,2,3,3.75
+229,Female,Married,Master,Education,1 - 5 Years,Yes,Yes,Expert,Private,31,Strongly agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.33,4.57,4.67,5,4,3.75,4.75
+230,Male,Married,Master,Health Care,16 - 20 Years,No,Yes,Staff,State,42,Disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,2.17,1.14,2.67,1.33,3,3.25,2.5
+231,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Senior manager,Private,30,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,4.08,3.71,3,3.83,3.5,3.25,3.75
+232,Female,Married,Master,Finance,6 - 10 Years,No,Yes,Mid-level manager,Private,30,Agree,Neither agree nor disagree,Agree,Agree,Agree,4.92,4,4.83,4.17,5,5,4.75
+233,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Agree,3.83,3.57,4,4.17,5,4,4
+234,Female,Married,Master,Health Care,16 - 20 Years,No,Yes,Mid-level manager,Private,34,Neither agree nor disagree,Disagree,Strongly disagree,Disagree,Disagree,3.17,2.14,2.33,2.33,4,2.75,3
+235,Female,Married,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,33,Strongly disagree,Strongly disagree,Strongly agree,Agree,Agree,3.92,2.71,4.5,4,4.5,3,3
+236,Female,Married,Master,Finance,1 - 5 Years,No,No,Expert,Private,24,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.33,2.86,4.33,2.67,2.5,4.5,4.75
+237,Male,Married,Bachelor,Information Technology,6 - 10 Years,Yes,No,Expert,Private,29,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,5,4.43,5,5,5,4.75,4.75
+238,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,31,Neither agree nor disagree,Strongly disagree,Agree,Neither agree nor disagree,Strongly disagree,2.25,2.86,1.17,2,4,3.25,3
+239,Male,Married,Master,Finance,11 - 15 Years,No,Yes,Mid-level manager,Private,33,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,3.92,2.29,4.17,3.83,5,2,2.5
+240,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,35,Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly agree,Agree,4.17,2.71,3.17,4,2.5,2.25,2.25
+241,Male,Married,Master,Production,1 - 5 Years,Yes,No,Operation manager,State,27,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.92,5,5,5,5,5,5
+242,Female,Married,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,39,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.5,3.14,3.67,3,3.5,2.25,3.5
+243,Male,Married,Master,Finance,21 + Years,No,Yes,Expert,Private,48,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.25,2.43,3.5,2.83,3.5,3.75,3.25
+244,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,40,Agree,Agree,Agree,Strongly agree,Strongly agree,3.42,4.43,3.83,4.17,4.5,5,4.5
+245,Male,Married,Master,Education,16 - 20 Years,No,No,Mid-level manager,Private,40,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,Agree,3.67,2.71,3.67,4,4,3.75,4.25
+246,Male,Married,Bachelor,Finance,11 - 15 Years,Yes,Yes,Expert,Private,33,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Strongly agree,4,3.43,4.33,4.5,5,5,5
+247,Male,Married,Bachelor,Finance,6 - 10 Years,Yes,No,Expert,Private,37,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.83,4.71,4.17,5,5,5,5
+248,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Operation manager,State,32,Neither agree nor disagree,Neither agree nor disagree,Disagree,Strongly disagree,Agree,2.25,2.71,2.33,2.5,2,2.25,2.25
+249,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Expert,Private,28,Agree,Disagree,Strongly disagree,Agree,Agree,3.25,3,3.5,4,3.5,3.75,3.75
+250,Male,Married,Master,Finance,11 - 15 Years,No,No,Mid-level manager,Private,35,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.83,2.14,2.67,3.33,2.5,2,2.25
+251,Male,Married,Master,Information Technology,11 - 15 Years,Yes,Yes,Expert,Private,35,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Neither agree nor disagree,3.5,3.43,3.83,2.83,3.5,3,3.5
+252,Male,Married,Bachelor,Finance,11 - 15 Years,No,No,Expert,Private,36,Strongly agree,Agree,Strongly disagree,Disagree,Neither agree nor disagree,1.92,2.43,3.33,2,2,3,2.25
+253,Male,Married,Master,Finance,1 - 5 Years,No,No,Staff,State,30,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.25,1.29,1.67,2,1.5,1,1
+254,Female,Married,Master,Information Technology,6 - 10 Years,No,Yes,Expert,Private,31,Agree,Disagree,Disagree,Agree,Agree,3.58,3.43,3.33,3.67,3.5,3.75,3.5
+255,Male,Married,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,30,Agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,4.14,4.17,4.5,5,4.75,4.25
+256,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Expert,Private,41,Agree,Agree,Neither agree nor disagree,Strongly agree,Agree,4.25,3.43,3.83,3.83,4.5,3.5,3.5
+257,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Expert,Private,32,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,2.58,1.29,2.17,3,1,1,1
+258,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,29,Agree,Agree,Neither agree nor disagree,Agree,Agree,4.33,4,4,4.17,5,3,3
+259,Female,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Staff,State,27,Agree,Agree,Disagree,Agree,Agree,2.75,3.29,3.5,3.5,3,4.25,5
+260,Male,Married,Bachelor,Information Technology,6 - 10 Years,Yes,Yes,Expert,Private,33,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,4.17,4,3.67,4.33,5,4.5,3.25
+261,Male,Married,Master,Information Technology,1 - 5 Years,Yes,No,Operation manager,State,28,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.17,3.43,4.5,4.5,4,3.25,3.25
+262,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Operation manager,State,30,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,2.43,2.5,2.5,2.5,4,4.25
+263,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.17,3.57,2.83,2.67,4,3,3
+264,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Senior manager,Private,38,Agree,Agree,Agree,Strongly agree,Strongly agree,4.33,4.43,4.33,4.83,5,3.25,4.25
+265,Male,Married,Master,Information Technology,11 - 15 Years,No,Yes,Mid-level manager,Private,39,Strongly agree,Agree,Agree,Agree,Agree,4,4.57,4.17,4,3,4.75,4.75
+266,Male,Married,Master,Finance,6 - 10 Years,No,No,Mid-level manager,Private,33,Neither agree nor disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,2.08,1.86,2.83,2.5,4,2,2
+267,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Mid-level manager,Private,32,Disagree,Disagree,Disagree,Neither agree nor disagree,Agree,3.75,2.71,3.33,3.83,4,3.25,3
+268,Female,Married,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,26,Neither agree nor disagree,Agree,Agree,Agree,Agree,3.5,3.86,4,4.17,3.5,3,2.5
+269,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Expert,Private,28,Agree,Strongly agree,Strongly agree,Agree,Strongly agree,4.33,4.86,4.17,4,5,4.5,3.75
+270,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Agree,Agree,Strongly agree,Strongly agree,4.67,4.14,4.33,4.83,5,3.75,4
+271,Male,Married,Master,Information Technology,11 - 15 Years,Yes,Yes,Expert,Private,41,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.67,4.57,3.5,5,5,5,5
+272,Male,Married,Master,Finance,16 - 20 Years,No,No,Senior manager,Private,38,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.5,3.86,4.17,4.83,5,3.25,5
+273,Male,Married,Master,Information Technology,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.5,2.57,2.83,3.17,1.5,3.75,3.25
+274,Male,Married,Bachelor,Information Technology,11 - 15 Years,Yes,Yes,Staff,State,29,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly agree,3.58,3,3.17,4.67,5,5,4
+275,Female,Married,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.92,3,3.83,4.17,3.5,3.75,3.75
+276,Female,Married,Master,Education,16 - 20 Years,Yes,Yes,Expert,Private,38,Agree,Agree,Agree,Agree,Agree,2.67,3.57,2.83,3,1.5,2.5,4.5
+277,Male,Married,Master,Finance,1 - 5 Years,Yes,No,Mid-level manager,Private,33,Agree,Neither agree nor disagree,Disagree,Agree,Strongly agree,3.83,3,3.33,4.83,3,3.75,4
+278,Male,Married,Bachelor,Information Technology,1 - 5 Years,No,No,Expert,Private,27,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,3.42,3,3.83,4.5,5,4,4
+279,Male,Married,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.17,5,4.17,4.67,4.5,4.5,4.75
+280,Female,Married,Master,Finance,1 - 5 Years,No,No,Mid-level manager,Private,28,Agree,Agree,Agree,Agree,Agree,4,4,4,4,4,4,4
+281,Male,Married,Master,Production,21 + Years,Yes,Yes,Mid-level manager,Private,48,Strongly agree,Disagree,Strongly agree,Strongly agree,Strongly agree,4.83,4.57,4.67,4.83,5,4,4
+282,Female,Married,Master,Finance,6 - 10 Years,No,Yes,Operation manager,State,32,Disagree,Disagree,Disagree,Disagree,Neither agree nor disagree,2.83,2.14,4,2.83,3.5,2.75,3
+283,Female,Married,Master,Finance,1 - 5 Years,No,No,Expert,Private,25,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,4,3.14,3.5,3.17,4.5,3,3.25
+284,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,37,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,4.5,3.14,4,4,2.5,4,4
+285,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,4.33,5,5,5,5
+286,Male,Married,Bachelor,Finance,1 - 5 Years,Yes,Yes,Staff,State,27,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.08,4.86,3.67,4.17,3,4.5,3.5
+287,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Agree,Neither agree nor disagree,Agree,Agree,4.17,3.43,4.5,4,4.5,4.25,4.25
+288,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,33,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,4.83,4.57,4.67,4.67,4.5,4.25,3.75
+289,Male,Married,Master,Finance,1 - 5 Years,No,No,Staff,State,32,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.25,1.14,1.83,2,2,1,1.5
+290,Female,Married,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,32,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,4.08,2.57,4.67,4,2,4,4
+291,Female,Married,Master,Health Care,11 - 15 Years,No,Yes,Senior manager,Private,34,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Agree,3.42,2.14,3.17,4,5,3.5,3
+292,Male,Married,Master,Education,16 - 20 Years,No,Yes,Mid-level manager,Private,40,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3.92,4.14,4.5,4,5,5,5
+293,Female,Married,Master,Health Care,21 + Years,Yes,Yes,Senior manager,Private,43,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.83,3.57,5,4.67,5,5,5
+294,Male,Single,Master,Information Technology,1 - 5 Years,No,Yes,Expert,Private,25,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,4.08,4.29,3.33,4.33,2,5,5
+295,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,39,Strongly agree,Agree,Strongly disagree,Strongly agree,Strongly agree,3.5,2.71,3.83,3.83,5,2.5,2.5
+296,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Strongly agree,Strongly agree,Strongly agree,Disagree,Disagree,3.5,4.14,1,2,2,2.5,2.5
+297,Female,Married,Master,Education,6 - 10 Years,Yes,Yes,Staff,State,30,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.25,4.43,4.17,5,4.5,4,4.75
+298,Male,Married,Master,Finance,11 - 15 Years,No,No,Staff,State,38,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,4.08,3.57,3.5,3.83,4.5,4.25,4
+299,Female,Married,Master,Health Care,6 - 10 Years,Yes,No,Operation manager,State,31,Agree,Agree,Neither agree nor disagree,Agree,Agree,3.92,3.14,4.17,3.5,5,2,2
+300,Male,Married,Master,Finance,11 - 15 Years,No,Yes,Senior manager,Private,38,Agree,Agree,Strongly disagree,Agree,Agree,4.33,3.57,4.67,4.17,4,3.25,3.75
+301,Male,Married,Bachelor,Information Technology,11 - 15 Years,Yes,No,Expert,Private,43,Agree,Strongly disagree,Agree,Strongly agree,Strongly agree,4.5,4.14,5,4.67,5,5,4.75
+302,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,38,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,3.67,3.29,3.67,4.17,3,4,4
+303,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,32,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly disagree,2.83,1.29,3.5,2.5,2.5,2.25,2
+304,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Expert,Private,34,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.33,1.57,1,1.5,2.5,2.5,2
+305,Male,Married,Bachelor,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,27,Neither agree nor disagree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.25,4.29,5,4.83,4.5,5,4
+306,Male,Married,Master,Finance,6 - 10 Years,No,Yes,Mid-level manager,Private,32,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,2.5,2,4.67,2.5,4,2.25,2
+307,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,31,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,3.33,2,4.5,1.83,3,1.75,2.25
+308,Male,Married,Master,Information Technology,6 - 10 Years,Yes,Yes,Operation manager,State,31,Agree,Agree,Strongly disagree,Agree,Agree,4.17,3,4.17,3.67,4.5,3,3.25
+309,Male,Married,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,33,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.67,2.14,3.33,2.67,5,2,2.25
+310,Female,Married,Master,Finance,1 - 5 Years,Yes,Yes,Staff,State,27,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,1.83,1.86,2,2.83,5,2.25,2.25
+311,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Operation manager,State,36,Agree,Agree,Agree,Agree,Strongly agree,4,3.86,3.67,3.83,4.5,3,3.25
+312,Male,Single,Master,Information Technology,1 - 5 Years,No,Yes,Expert,Private,29,Neither agree nor disagree,Disagree,Neither agree nor disagree,Disagree,Disagree,2.58,2.57,3.5,2.17,1.5,3,2.25
+313,Male,Married,Master,Finance,11 - 15 Years,Yes,No,Expert,Private,38,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,3.67,3.29,3,3.67,4,2.25,2.5
+314,Male,Married,Master,Finance,11 - 15 Years,No,Yes,Mid-level manager,Private,40,Neither agree nor disagree,Disagree,Disagree,Disagree,Neither agree nor disagree,3.25,3,3.17,3.17,2.5,4,3.5
+315,Male,Married,Master,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,28,Neither agree nor disagree,Strongly agree,Strongly disagree,Strongly agree,Agree,4.33,2.71,4.33,4.17,4,3,2.25
+316,Male,Married,Bachelor,Finance,21 + Years,No,No,Expert,Private,47,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Strongly disagree,2,1.29,2.17,2,5,1,1.25
+317,Male,Married,Master,Education,11 - 15 Years,No,Yes,Mid-level manager,Private,40,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3.33,3.14,3.33,3.5,3.5,2.75,3.75
+318,Male,Married,Master,Finance,1 - 5 Years,No,No,Staff,State,27,Neither agree nor disagree,Agree,Disagree,Neither agree nor disagree,Agree,4.17,2.71,4.5,3.83,3.5,4.25,4.25
+319,Male,Married,Master,Education,1 - 5 Years,Yes,No,Staff,State,32,Neither agree nor disagree,Strongly agree,Agree,Agree,Agree,4.25,4.14,4.5,4.5,3,4.75,5
+320,Male,Married,Master,Information Technology,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Disagree,Disagree,Agree,Agree,3.17,3.14,3.33,3.83,4,3.25,2.5
+321,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,2.83,2.57,3,3.33,5,1.75,1.75
+322,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,38,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,Agree,4.08,3.71,4,3.83,4.5,4.25,4
+323,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Expert,Private,32,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.17,4.57,4.67,4.67,5,2.75,3.5
+324,Male,Married,Master,Finance,6 - 10 Years,No,No,Senior manager,Private,31,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4.08,3.57,4,4.33,4,1.5,1.5
+325,Male,Married,Master,Finance,6 - 10 Years,Yes,No,Staff,State,27,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+326,Male,Married,Master,Education,11 - 15 Years,No,No,Mid-level manager,Private,40,Strongly agree,Agree,Disagree,Strongly agree,Strongly agree,4.92,4,4.5,4.83,4,3.75,3.75
+327,Female,Married,Master,Health Care,6 - 10 Years,No,Yes,Operation manager,State,29,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3.25,2.71,4,3.33,4.5,2.75,3.5
+328,Male,Married,Master,Finance,11 - 15 Years,Yes,Yes,Senior manager,Private,37,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,3.92,3.86,4,3.83,4.5,5,4.75
+329,Female,Married,Bachelor,Health Care,21 + Years,No,Yes,Staff,State,46,Agree,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,3.58,3.71,3.83,3,5,4.5,4.75
+330,Female,Married,Master,Health Care,11 - 15 Years,No,No,Mid-level manager,Private,33,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Neither agree nor disagree,3.17,1.71,3.5,2.83,4.5,3.25,3.25
+331,Female,Married,Master,Health Care,1 - 5 Years,No,No,Staff,State,26,Agree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.5,2.43,3.17,2.67,4,2.75,2.25
+332,Male,Married,Master,Information Technology,16 - 20 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Neither agree nor disagree,Agree,Agree,Strongly agree,3.17,4,3.67,4,3.5,5,4
+333,Male,Married,Master,Finance,6 - 10 Years,No,No,Expert,Private,29,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.17,1.57,1.33,2.5,5,4,5
+334,Male,Married,Master,Education,11 - 15 Years,Yes,Yes,Operation manager,State,38,Agree,Agree,Agree,Agree,Agree,4,4,4,4,4,4,4.25
+335,Female,Single,Bachelor,Finance,1 - 5 Years,No,Yes,Expert,Private,24,Agree,Agree,Strongly agree,Agree,Strongly agree,4.83,4.71,4.67,4.83,5,2.5,3.75
+336,Male,Married,Master,Production,1 - 5 Years,Yes,No,Mid-level manager,Private,31,Disagree,Strongly disagree,Strongly disagree,Agree,Disagree,4.17,1.71,3.83,2.33,3.5,2.75,3.5
+337,Male,Married,Master,Finance,21 + Years,No,No,Mid-level manager,Private,39,Agree,Agree,Disagree,Agree,Agree,3.83,3.43,3.67,3.83,4,4,4
+338,Male,Married,Master,Finance,16 - 20 Years,Yes,Yes,Operation manager,State,37,Strongly disagree,Disagree,Neither agree nor disagree,Agree,Disagree,3.08,2.14,3.67,2.67,4,2.5,2.25
+339,Female,Married,Master,Finance,1 - 5 Years,No,No,Staff,State,24,Disagree,Disagree,Disagree,Neither agree nor disagree,Agree,4.25,2.71,4.67,3.17,4.5,2.75,2
+340,Female,Married,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,34,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,Strongly disagree,2.17,1.29,2.67,2.83,3,1,1
+341,Female,Married,Master,Health Care,11 - 15 Years,No,No,Operation manager,State,36,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3.92,3,3.83,3.83,5,3.25,3
+342,Male,Married,Master,Finance,11 - 15 Years,No,Yes,Mid-level manager,Private,37,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,3.33,3.57,3.67,3,2,2.75,3.5
+343,Female,Married,Master,Health Care,21 + Years,No,Yes,Senior manager,Private,40,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.33,1.14,3.17,1.17,3.5,3,4.25
+344,Male,Married,Master,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,38,Strongly agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.58,4.43,4,5,5,5,5
+345,Male,Married,Master,Education,11 - 15 Years,Yes,Yes,Staff,State,44,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.75,4.86,5,5,5,4.75,5
+346,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Staff,State,34,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,2.92,2.29,3.83,2,4.5,4,3
+347,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,29,Agree,Strongly agree,Neither agree nor disagree,Agree,Agree,4.67,3.86,3.5,3.5,5,4,4
+348,Male,Married,Master,Education,11 - 15 Years,Yes,Yes,Staff,State,44,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.75,4.86,5,5,5,4.75,5
+349,Male,Married,Master,Education,1 - 5 Years,No,No,Staff,State,24,Disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Disagree,4.67,2.43,4,3.5,5,3.5,3.5
+350,Male,Married,Master,Education,6 - 10 Years,No,Yes,Mid-level manager,Private,29,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,4.25,3.43,4.17,3.83,3.5,4.75,5
+351,Male,Married,Master,Production,6 - 10 Years,Yes,Yes,Operation manager,State,30,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3.92,3.86,3.83,4.33,4.5,4.25,3.5
+352,Male,Married,Master,Finance,1 - 5 Years,Yes,No,Staff,State,27,Disagree,Disagree,Disagree,Neither agree nor disagree,Disagree,3.42,2.43,2.67,2.83,5,4.25,3.75
+353,Male,Married,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,26,Disagree,Disagree,Disagree,Agree,Agree,3.83,2.71,3.83,3.67,5,2,2
+354,Male,Single,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,30,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.5,3,3.33,3.5,4.5,4,4.25
+355,Male,Single,Master,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.5,4.14,4,4.83,5,2.75,4.75
+356,Female,Single,Bachelor,Finance,21 + Years,No,Yes,Senior manager,Private,47,Agree,Agree,Agree,Strongly agree,Strongly agree,4.83,4.14,4.17,4.83,5,4,4.75
+357,Male,Single,Master,Production,1 - 5 Years,No,Yes,Operation manager,State,33,Neither agree nor disagree,Agree,Agree,Agree,Agree,3.83,3.57,4,3.5,3.5,4,4
+358,Female,Single,Bachelor,Health Care,6 - 10 Years,No,No,Staff,State,32,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.42,2.57,1.5,1,2,2.75,2.25
+359,Female,Single,Bachelor,Health Care,6 - 10 Years,No,No,Staff,State,32,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.42,2.57,1.5,1,2,2.75,2.25
+360,Male,Single,Master,Finance,16 - 20 Years,Yes,Yes,Senior manager,Private,42,Agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.33,3.86,4.67,4.67,5,4.5,5
+361,Female,Single,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,30,Agree,Agree,Agree,Agree,Agree,3.75,4.14,4,4,4,4,4
+362,Male,Single,Master,Finance,1 - 5 Years,Yes,Yes,Staff,State,25,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.83,5,5,5,4,5,5
+363,Male,Single,Master,Education,1 - 5 Years,Yes,Yes,Mid-level manager,Private,29,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.67,4.86,4.17,4.83,4.5,4.5,4.5
+364,Male,Single,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,33,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.5,3,4.5,3.83,3.5,3.25,3.5
+365,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Staff,State,37,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1.58,2.14,1.17,2.67,1,2.5,2.75
+366,Male,Single,Master,Finance,21 + Years,Yes,Yes,Operation manager,State,49,Agree,Neither agree nor disagree,Disagree,Strongly agree,Agree,3.5,2.71,2.5,4.17,3.5,2.25,2.5
+367,Male,Single,Master,Finance,16 - 20 Years,No,Yes,Senior manager,Private,34,Agree,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,2.67,2.57,1.33,1.83,4,1.75,1.25
+368,Female,Single,Master,Education,6 - 10 Years,Yes,No,Expert,Private,32,Disagree,Disagree,Disagree,Agree,Agree,4.17,2.71,3.83,3.33,5,3.75,3.5
+369,Female,Single,Master,Finance,1 - 5 Years,No,No,Staff,State,24,Agree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.83,2,1.17,4,5,2.25,2.5
+370,Male,Single,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,25,Agree,Agree,Agree,Agree,Agree,3.67,4.14,4.83,4.33,5,3.25,3
+371,Male,Single,Master,Health Care,16 - 20 Years,No,Yes,Mid-level manager,Private,36,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,1.75,1.43,2.33,1.83,3.5,2.25,2
+372,Male,Single,Master,Information Technology,6 - 10 Years,No,Yes,Expert,Private,35,Neither agree nor disagree,Strongly disagree,Strongly disagree,Agree,Agree,3,2.57,3.67,3.33,4.5,4,5
+373,Male,Single,Master,Information Technology,1 - 5 Years,Yes,No,Expert,Private,30,Disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.25,3.71,4.17,4.83,4,5,5
+374,Female,Single,Master,Finance,11 - 15 Years,No,Yes,Mid-level manager,Private,32,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Agree,Agree,4.08,3.43,4.83,4.17,3,5,4.5
+375,Male,Single,Master,Production,6 - 10 Years,Yes,Yes,Expert,Private,31,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Neither agree nor disagree,2.92,2.43,1.67,3,3.5,3.5,3
+376,Male,Single,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,30,Disagree,Strongly agree,Strongly disagree,Agree,Agree,4,2.57,3.83,4.17,4.5,4.25,4
+377,Male,Single,Bachelor,Finance,6 - 10 Years,Yes,No,Expert,Private,29,Agree,Agree,Strongly agree,Strongly agree,Strongly agree,4.83,4.43,3,4.33,4.5,5,5
+378,Female,Single,Master,Health Care,21 + Years,Yes,Yes,Mid-level manager,Private,47,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.67,1.43,3.17,2.33,5,1,1
+379,Female,Single,Master,Education,11 - 15 Years,No,Yes,Expert,Private,36,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,2.25,1.29,2,2.67,2,2.5,3.25
+380,Male,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,42,Disagree,Disagree,Disagree,Neither agree nor disagree,Disagree,2.33,1.71,4.33,3,3.5,3.5,4
+381,Male,Single,Master,Finance,6 - 10 Years,Yes,No,Mid-level manager,Private,32,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.42,1.57,3,3.17,4,2,1.5
+382,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Expert,Private,27,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.67,2.14,1.33,3,5,1,1
+383,Male,Single,Master,Finance,6 - 10 Years,Yes,No,Staff,State,26,Strongly agree,Strongly agree,Agree,Agree,Strongly agree,4.67,4.86,3.5,4.67,4.5,3,2.5
+384,Male,Single,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,37,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.33,3.43,3.5,3.83,3.5,3.75,3.25
+385,Male,Single,Master,Health Care,16 - 20 Years,No,Yes,Operation manager,State,43,Disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.08,2.14,2,2.83,5,3.75,3.5
+386,Male,Single,Bachelor,Finance,11 - 15 Years,Yes,No,Expert,Private,37,Agree,Disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,3.33,3.29,3.33,3.5,3.5,3.5,3.25
+387,Male,Single,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,29,Neither agree nor disagree,Agree,Agree,Strongly agree,Strongly agree,4.75,4,5,4.67,3.5,3.25,3.25
+388,Male,Single,Master,Construction,11 - 15 Years,Yes,Yes,Mid-level manager,Private,35,Disagree,Neither agree nor disagree,Strongly disagree,Agree,Agree,3.42,2,4,4.5,5,3.5,3.5
+389,Female,Single,Master,Health Care,6 - 10 Years,No,Yes,Mid-level manager,Private,27,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,1.83,1.57,1.5,2.17,5,3.75,3.75
+390,Female,Single,Master,Health Care,16 - 20 Years,No,Yes,Mid-level manager,Private,40,Disagree,Disagree,Disagree,Strongly agree,Strongly agree,4.42,2.57,4.67,4.33,5,2.75,3.25
+391,Female,Single,Master,Health Care,11 - 15 Years,Yes,No,Mid-level manager,Private,37,Disagree,Disagree,Strongly disagree,Agree,Strongly agree,4.83,2.29,5,4.5,5,2.75,3.5
+392,Male,Single,Bachelor,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.92,3.43,4.33,4.17,4,3.5,3.5
+393,Male,Single,Bachelor,Information Technology,1 - 5 Years,Yes,Yes,Staff,State,25,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,4.86,5,5,5,5,5
+394,Female,Single,Master,Health Care,6 - 10 Years,No,No,Staff,State,30,Disagree,Strongly disagree,Strongly disagree,Disagree,Strongly disagree,2.25,1.57,2.17,2.17,5,2.5,1
+395,Male,Single,Master,Energy,6 - 10 Years,Yes,No,Mid-level manager,Private,31,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,Strongly agree,4.25,4.29,4.17,4.67,5,3,4.25
+396,Female,Single,Master,Health Care,11 - 15 Years,No,Yes,Expert,Private,35,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,2.67,3,2,2.33,5,2,1.5
+397,Male,Single,Master,Construction,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Strongly agree,Agree,Neither agree nor disagree,Agree,Strongly agree,3.5,4.14,4.33,4.67,3.5,4.75,4.5
+398,Male,Single,Master,Finance,6 - 10 Years,Yes,No,Mid-level manager,Private,33,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.83,2.14,3.83,2.83,2,1.75,2
+399,Male,Single,Master,Finance,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Agree,Disagree,Disagree,Agree,Agree,4,3.43,4.17,3.83,4,3,4.25
+400,Male,Single,Master,Construction,6 - 10 Years,Yes,Yes,Expert,Private,33,Neither agree nor disagree,Strongly disagree,Strongly disagree,Agree,Agree,2.92,2,3.17,2.83,5,1.75,1.75
+401,Male,Single,Master,Construction,11 - 15 Years,Yes,No,Mid-level manager,Private,36,Strongly agree,Disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.5,4,4.67,4.83,5,4.25,4
+402,Male,Single,Bachelor,Service,16 - 20 Years,No,Yes,Expert,Private,43,Strongly agree,Neither agree nor disagree,Disagree,Agree,Strongly agree,3.67,3.43,4.17,4.33,4.5,4.25,4.75
+403,Male,Single,Master,Information Technology,1 - 5 Years,Yes,No,Staff,State,28,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.17,2.29,3.67,3.83,3.5,4.75,4.25
+404,Male,Single,Master,Information Technology,21 + Years,Yes,Yes,Mid-level manager,Private,48,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Agree,Agree,4.08,2.86,4,3.67,4.5,4,4
+405,Female,Single,Master,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,31,Neither agree nor disagree,Disagree,Agree,Agree,Agree,2.83,3.29,3.67,3.83,3,4,3.25
+406,Male,Single,Master,Service,6 - 10 Years,Yes,Yes,Mid-level manager,Private,31,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.25,1.29,1.33,1,5,1.75,1
+407,Male,Single,Master,Energy,16 - 20 Years,Yes,Yes,Operation manager,State,38,Agree,Strongly agree,Strongly disagree,Strongly agree,Strongly agree,4.42,4.14,3.33,4.17,4,3.75,3.75
+408,Male,Single,Master,Energy,11 - 15 Years,No,Yes,Mid-level manager,Private,31,Agree,Agree,Disagree,Agree,Agree,3.25,2.86,3.67,3.83,4,3.5,3.25
+409,Male,Single,Master,Energy,11 - 15 Years,Yes,Yes,Staff,State,38,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,3.67,3.43,4,3.33,4,4.75,4.75
+410,Male,Single,Master,Finance,6 - 10 Years,Yes,No,Mid-level manager,Private,32,Agree,Neither agree nor disagree,Agree,Strongly agree,Strongly agree,4.17,3.86,4.67,4.83,4,2.5,3
+411,Female,Single,Bachelor,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,33,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.67,2.43,3,3,3.5,3.5,4
+412,Male,Single,Bachelor,Health Care,21 + Years,Yes,Yes,Mid-level manager,Private,43,Disagree,Strongly disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,3.42,2.29,4.83,3.33,2,3.25,3.25
+413,Male,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Senior manager,Private,32,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,3.75,4.25
+414,Male,Single,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,41,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3.5,3.43,3.5,4.17,4,3,2.25
+415,Male,Single,Master,Education,21 + Years,Yes,No,Mid-level manager,Private,42,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.75,5,4.17,4.67,5,4.5,4.75
+416,Male,Single,Master,Health Care,16 - 20 Years,Yes,Yes,Senior manager,Private,40,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,4.67,5,3.5,4.5
+417,Male,Single,Master,Production,16 - 20 Years,No,Yes,Senior manager,Private,37,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,4.08,5,5,4.67,5,4.75,5
+418,Male,Single,Master,Finance,16 - 20 Years,Yes,Yes,Mid-level manager,Private,40,Disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,3.58,3,3.83,3.17,4,4,3.75
+419,Female,Single,Master,Health Care,6 - 10 Years,Yes,Yes,Expert,Private,31,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,3.17,1.29,3.67,2.33,5,1.75,2.5
+420,Female,Single,Bachelor,Finance,1 - 5 Years,Yes,No,Expert,Private,24,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,4.33,3.57,4.5,4.33,4,4,4
+421,Female,Single,Master,Production,11 - 15 Years,Yes,No,Staff,State,39,Neither agree nor disagree,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,1.83,1.71,3.33,2.33,5,1.25,1.5
+422,Male,Single,Master,Service,16 - 20 Years,Yes,Yes,Mid-level manager,Private,41,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Agree,Agree,3.58,3.71,5,3.83,4,4.5,4
+423,Male,Single,Master,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,28,Agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4,3.14,3.67,4.5,5,4,5
+424,Male,Single,Master,Finance,6 - 10 Years,No,No,Operation manager,State,28,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.67,1.43,3.5,1.33,2.5,3.5,1
+425,Male,Single,Master,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,32,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,4.08,3.43,4,4.17,5,4.25,4
+426,Male,Single,Master,Production,1 - 5 Years,No,No,Mid-level manager,Private,25,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Disagree,2.83,3,2.17,3,3,2.25,3
+427,Male,Single,Master,Energy,6 - 10 Years,No,Yes,Expert,Private,34,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,3,1.57,2.83,2,2.5,2.5,1.25
+428,Male,Single,Master,Production,1 - 5 Years,Yes,Yes,Mid-level manager,Private,26,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.17,3,3,3.17,3,3,3
+429,Female,Single,Master,Health Care,16 - 20 Years,No,Yes,Staff,State,35,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,2.08,1.57,1,1.83,5,2.25,2.25
+430,Male,Single,Bachelor,Finance,21 + Years,No,Yes,Expert,Private,47,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,2.33,3,2.33,3,2.5,4.25,4
+431,Female,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Senior manager,Private,36,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,4,3.67,4.17,5,4.5,4.75
+432,Female,Single,Master,Construction,16 - 20 Years,Yes,Yes,Mid-level manager,Private,32,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,5,5,5,5
+433,Male,Single,Master,Health Care,6 - 10 Years,Yes,No,Staff,State,28,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,3.5,2.14,4.33,3.67,5,3.75,3.75
+434,Male,Single,Master,Construction,6 - 10 Years,No,Yes,Senior manager,Private,35,Agree,Neither agree nor disagree,Strongly disagree,Agree,Agree,3.08,3,3.5,4.17,4,3.5,4.25
+435,Female,Single,Master,Production,1 - 5 Years,Yes,Yes,Expert,Private,24,Disagree,Strongly disagree,Disagree,Neither agree nor disagree,Strongly disagree,1.67,1.29,1.83,2.33,2,1.5,3
+436,Male,Single,Bachelor,Service,11 - 15 Years,Yes,Yes,Mid-level manager,Private,32,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3.83,3.29,3.83,3.67,4.5,3,3.75
+437,Male,Single,Master,Energy,6 - 10 Years,No,Yes,Operation manager,State,33,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4,4.57,4,4.33,5,4.75,4
+438,Male,Single,Master,Information Technology,21 + Years,Yes,Yes,Mid-level manager,Private,29,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Strongly agree,4.42,2.71,4.83,4.33,3,3.75,4
+439,Female,Single,Master,Health Care,6 - 10 Years,No,No,Staff,State,31,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Disagree,2.33,1.43,3.5,2.33,4,2,1.75
+440,Male,Single,Bachelor,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,33,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.5,4.71,4.17,5,5,4.75,5
+441,Female,Single,Bachelor,Finance,6 - 10 Years,Yes,Yes,Operation manager,State,34,Agree,Agree,Disagree,Agree,Strongly agree,3.92,4,4.83,4.33,3.5,2.5,3.75
+442,Male,Single,Bachelor,Health Care,1 - 5 Years,No,No,Staff,State,26,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,3.83,2.29,3.83,4.33,4,3,3.5
+443,Male,Single,Master,Information Technology,11 - 15 Years,Yes,No,Operation manager,State,38,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,4.57,4.17,4.33,4,4.5,4.5
+444,Male,Single,Bachelor,Information Technology,11 - 15 Years,No,Yes,Operation manager,State,37,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Agree,4.75,3.86,4.33,4.33,4.5,2.75,3.25
+445,Male,Single,Master,Information Technology,11 - 15 Years,Yes,Yes,Mid-level manager,Private,34,Strongly disagree,Strongly disagree,Agree,Disagree,Disagree,2.83,1.71,4.17,1.83,2,1,1
+446,Male,Single,Master,Health Care,1 - 5 Years,No,No,Mid-level manager,Private,29,Neither agree nor disagree,Agree,Strongly disagree,Neither agree nor disagree,Strongly disagree,2.67,1.86,2.83,2.33,5,2,1.25
+447,Male,Single,Master,Health Care,1 - 5 Years,No,No,Mid-level manager,Private,29,Neither agree nor disagree,Agree,Strongly disagree,Neither agree nor disagree,Strongly disagree,2.67,1.86,2.83,2.33,5,2,1.25
+448,Male,Single,Master,Service,11 - 15 Years,No,No,Staff,State,33,Strongly agree,Strongly disagree,Neither agree nor disagree,Strongly agree,Strongly agree,2.83,2.71,2.5,4,4,5,3.5
+449,Male,Single,Bachelor,Information Technology,6 - 10 Years,Yes,Yes,Expert,Private,39,Disagree,Disagree,Disagree,Agree,Agree,3.75,3.14,3.83,3.83,4,3.25,2.75
+450,Male,Single,Master,Construction,11 - 15 Years,No,Yes,Expert,Private,29,Agree,Agree,Agree,Agree,Agree,3.67,3.71,3.67,3.33,4.5,2.75,2.75
+451,Female,Single,Master,Production,6 - 10 Years,Yes,No,Expert,Private,31,Agree,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Strongly agree,4.67,3.86,4.33,4.83,5,4.5,5
+452,Male,Single,Master,Education,1 - 5 Years,Yes,No,Operation manager,State,28,Agree,Agree,Agree,Agree,Agree,3.25,3.57,3.67,4,3.5,4,4.5
+453,Male,Single,Master,Production,1 - 5 Years,No,No,Operation manager,State,27,Agree,Agree,Strongly agree,Disagree,Neither agree nor disagree,4.33,4.14,3.67,2.17,3,3,3.5
+454,Male,Single,Master,Construction,6 - 10 Years,Yes,No,Staff,State,32,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,3.83,2.29,4.17,4,3.5,1.75,2.5
+455,Male,Single,Master,Finance,6 - 10 Years,Yes,Yes,Senior manager,Private,31,Neither agree nor disagree,Agree,Disagree,Strongly agree,Agree,4.92,3.43,4.5,4.33,5,4.75,5
+456,Female,Single,Master,Construction,1 - 5 Years,No,Yes,Expert,Private,29,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,1.57,3.83,2.83,3,2.5,3.25
+457,Male,Single,Bachelor,Health Care,6 - 10 Years,No,No,Senior manager,Private,33,Agree,Strongly disagree,Strongly disagree,Disagree,Disagree,4,1.86,4,2.83,3,3,3
+458,Male,Single,Master,Finance,6 - 10 Years,No,No,Mid-level manager,Private,33,Neither agree nor disagree,Strongly disagree,Disagree,Agree,Agree,3.75,2.29,3,4,3,3.25,2.75
+459,Male,Single,Master,Service,1 - 5 Years,Yes,Yes,Mid-level manager,Private,29,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,3.58,3.14,4,4.33,5,4.75,3.5
+460,Male,Single,Master,Production,1 - 5 Years,No,Yes,Expert,Private,27,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,2.08,1.29,3.67,2.5,2.5,1.25,1.75
+461,Male,Single,Master,Production,16 - 20 Years,Yes,Yes,Senior manager,Private,34,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,5,5,5,4.67,4.5,3.75,3.75
+462,Male,Single,Master,Service,11 - 15 Years,No,No,Staff,State,32,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,2.25,4,4,3.5,3.5,3.5,3.75
+463,Male,Single,Master,Service,11 - 15 Years,No,No,Staff,State,32,Strongly agree,Neither agree nor disagree,Strongly agree,Agree,Neither agree nor disagree,2.25,4,4,3.5,3.5,3.5,3.75
+464,Male,Single,Master,Information Technology,16 - 20 Years,Yes,Yes,Mid-level manager,Private,47,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.33,3.71,4.33,4.5,5,4,4
+465,Female,Single,Bachelor,Health Care,1 - 5 Years,No,No,Mid-level manager,Private,29,Agree,Agree,Strongly disagree,Strongly agree,Strongly agree,4.33,3.71,4.17,4.5,4.5,4,3.75
+466,Male,Single,Master,Finance,11 - 15 Years,Yes,Yes,Mid-level manager,Private,38,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Neither agree nor disagree,2.42,1.57,2.67,2.67,4,2.5,2.25
+467,Male,Single,Master,Service,11 - 15 Years,Yes,Yes,Staff,State,38,Agree,Neither agree nor disagree,Disagree,Agree,Agree,3,2.71,3.17,3.33,5,1.5,1.75
+468,Male,Single,Bachelor,Finance,6 - 10 Years,Yes,Yes,Expert,Private,37,Agree,Agree,Disagree,Agree,Agree,3.08,3.43,3.67,3.5,5,3.25,3.5
+469,Female,Single,Master,Health Care,11 - 15 Years,Yes,No,Staff,State,41,Agree,Agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,1.5,2.57,4,2.17,5,3.5,3.5
+470,Female,Single,Master,Construction,6 - 10 Years,Yes,No,Expert,Private,33,Agree,Neither agree nor disagree,Strongly disagree,Agree,Agree,2.67,2.29,2.83,3,3.5,2.75,3.25
+471,Male,Single,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,37,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.08,4.86,4.17,4.83,5,5,4.75
+472,Male,Single,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,31,Strongly agree,Strongly agree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.58,3.71,1.5,2,5,1,1
+473,Female,Single,Master,Energy,1 - 5 Years,No,No,Mid-level manager,Private,27,Neither agree nor disagree,Neither agree nor disagree,Strongly agree,Neither agree nor disagree,Neither agree nor disagree,2.17,3,2.33,3.33,4.5,4.75,3.75
+474,Female,Single,Master,Energy,6 - 10 Years,No,Yes,Mid-level manager,Private,35,Agree,Agree,Neither agree nor disagree,Agree,Agree,3.92,3.57,4.33,3,5,1.75,3.25
+475,Male,Single,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,26,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Disagree,Disagree,2.33,1.86,3.33,2.17,4.5,3.25,3.25
+476,Male,Single,Master,Construction,16 - 20 Years,Yes,No,Senior manager,Private,40,Agree,Strongly disagree,Strongly disagree,Agree,Agree,3.08,2.86,2.5,4.17,4,2,1.5
+477,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Staff,State,27,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,2.58,1.86,3,2.17,2.5,3.25,2.5
+478,Male,Single,Master,Health Care,6 - 10 Years,No,Yes,Staff,State,35,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.5,1.29,1,1.67,3.5,3,2.5
+479,Male,Single,Master,Construction,11 - 15 Years,Yes,No,Mid-level manager,Private,31,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,2.43,2,3.17,3,2.25,2.25
+480,Male,Single,Master,Health Care,21 + Years,No,Yes,Mid-level manager,Private,44,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.5,2.43,4.33,4,5,3,2.25
+481,Female,Single,Master,Information Technology,1 - 5 Years,No,No,Staff,State,25,Neither agree nor disagree,Disagree,Disagree,Agree,Neither agree nor disagree,3.5,2.86,4.33,3.17,4.5,4,3.25
+482,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Expert,Private,28,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.33,2.29,1.83,2.83,4,2,2.25
+483,Male,Single,Master,Energy,1 - 5 Years,No,No,Mid-level manager,Private,29,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,3.92,1.86,2.17,2.67,3.5,1.75,2.25
+484,Female,Single,Master,Finance,6 - 10 Years,No,Yes,Expert,Private,30,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,Disagree,3.17,2.86,4,2.67,3,3,3
+485,Male,Single,Master,Health Care,1 - 5 Years,Yes,No,Staff,State,30,Disagree,Disagree,Strongly disagree,Agree,Neither agree nor disagree,2.17,1.86,4.33,3.5,5,3.25,3.5
+486,Male,Single,PhD,Information Technology,21 + Years,No,Yes,Senior manager,Private,46,Agree,Agree,Agree,Agree,Agree,4.25,4,4,4.17,5,5,5
+487,Male,Single,Master,Production,16 - 20 Years,Yes,Yes,Senior manager,Private,45,Strongly agree,Strongly agree,Agree,Agree,Agree,3.92,3.71,3.5,4,3.5,3.5,3.25
+488,Female,Single,Bachelor,Health Care,11 - 15 Years,No,Yes,Staff,State,33,Strongly agree,Strongly agree,Strongly disagree,Neither agree nor disagree,Strongly disagree,1.92,3.14,1.33,2.33,5,4.5,4
+489,Male,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Disagree,2.58,1.57,3.5,3,5,3,2.5
+490,Female,Single,Master,Information Technology,11 - 15 Years,Yes,Yes,Mid-level manager,Private,40,Agree,Agree,Strongly disagree,Agree,Agree,3.92,3,4,4.17,3.5,3,3.5
+491,Female,Single,Master,Health Care,6 - 10 Years,No,Yes,Staff,State,31,Strongly disagree,Disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.42,1.57,3.17,2.5,5,3.5,4.25
+492,Male,Single,Master,Production,6 - 10 Years,No,Yes,Mid-level manager,Private,31,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,2.67,1.71,3.33,1.33,2,3.75,3.25
+493,Female,Single,Bachelor,Health Care,1 - 5 Years,Yes,Yes,Mid-level manager,Private,26,Disagree,Disagree,Strongly disagree,Agree,Agree,3.42,1.86,4.83,4,4,3.25,3.25
+494,Female,Single,Master,Health Care,11 - 15 Years,No,No,Operation manager,State,35,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Agree,3.42,4.57,4.33,3,4,3,3.25
+495,Male,Single,Bachelor,Information Technology,6 - 10 Years,Yes,Yes,Mid-level manager,Private,25,Disagree,Neither agree nor disagree,Strongly disagree,Strongly agree,Agree,4.33,2.57,4.33,3.83,5,4.25,4.5
+496,Male,Single,Master,Information Technology,11 - 15 Years,Yes,Yes,Expert,Private,33,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.92,1.14,1.33,1.5,4,2.5,2
+497,Female,Single,Bachelor,Construction,1 - 5 Years,Yes,Yes,Expert,Private,26,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,3.5,3.14,3.83,3.33,3,4.25,4
+498,Male,Single,Bachelor,Information Technology,6 - 10 Years,Yes,No,Operation manager,State,35,Strongly agree,Agree,Agree,Strongly agree,Strongly agree,4.42,4.43,3.83,4.33,4,3.75,4.5
+499,Male,Single,Master,Finance,6 - 10 Years,Yes,Yes,Expert,Private,34,Agree,Agree,Neither agree nor disagree,Agree,Agree,3.5,3.29,3,2.83,3.5,3.5,3
+500,Male,Single,Bachelor,Information Technology,11 - 15 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Strongly disagree,Neither agree nor disagree,Agree,Strongly agree,4.08,3.71,4.5,3.67,4,4.5,3.75
+501,Female,Single,Master,Service,6 - 10 Years,Yes,Yes,Mid-level manager,Private,29,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,3.83,2.71,4,2.83,4,2.75,2.25
+502,Female,Single,Master,Health Care,21 + Years,No,No,Mid-level manager,Private,41,Strongly disagree,Strongly disagree,Disagree,Strongly agree,Agree,3.42,1.86,4.67,4.17,5,3.25,3.5
+503,Male,Single,Master,Health Care,21 + Years,No,No,Staff,State,40,Neither agree nor disagree,Neither agree nor disagree,Strongly disagree,Strongly disagree,Strongly disagree,2.33,1.86,1,1.33,5,1.5,2.5
+504,Male,Single,Bachelor,Education,6 - 10 Years,Yes,Yes,Mid-level manager,Private,38,Agree,Agree,Agree,Strongly agree,Strongly agree,4.33,4,4.83,5,4.5,4.75,4.75
+505,Female,Single,Master,Energy,1 - 5 Years,Yes,No,Expert,Private,26,Neither agree nor disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.92,2.86,4,3,2.5,4.5,4.75
+506,Male,Single,Bachelor,Energy,16 - 20 Years,No,Yes,Operation manager,State,45,Strongly agree,Agree,Neither agree nor disagree,Strongly agree,Strongly agree,4.42,4.57,5,5,4.5,4.75,4.5
+507,Female,Single,Master,Education,1 - 5 Years,Yes,No,Staff,State,28,Strongly agree,Strongly agree,Neither agree nor disagree,Strongly agree,Strongly agree,4,4,4.17,4.17,5,2.25,2.75
+508,Male,Single,Master,Education,6 - 10 Years,No,Yes,Mid-level manager,Private,36,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.58,5,4.17,5,5,3.5,4
+509,Female,Single,Master,Health Care,11 - 15 Years,No,No,Mid-level manager,Private,38,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Disagree,2.5,1.71,3.67,1.83,3,2.5,2.25
+510,Female,Single,Master,Health Care,6 - 10 Years,Yes,Yes,Staff,State,30,Agree,Disagree,Disagree,Agree,Disagree,2.33,2.43,4.33,3,4,4,3
+511,Female,Single,Bachelor,Health Care,1 - 5 Years,No,No,Staff,State,26,Agree,Agree,Neither agree nor disagree,Agree,Agree,4.58,3.71,4,3.67,5,4,2.75
+512,Female,Single,Bachelor,Health Care,1 - 5 Years,Yes,No,Staff,State,25,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.92,3.14,4.67,3.67,3.5,3,3.5
+513,Male,Single,PhD,Health Care,11 - 15 Years,No,No,Expert,Private,37,Neither agree nor disagree,Strongly disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.67,2.14,2.17,3.17,3,2.5,2.5
+514,Male,Single,Master,Education,21 + Years,Yes,Yes,Mid-level manager,Private,41,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.5,3.29,3.83,3.67,3.5,4,4.25
+515,Male,Single,Bachelor,Education,11 - 15 Years,Yes,Yes,Mid-level manager,Private,36,Agree,Agree,Agree,Agree,Strongly agree,4.42,4,4.5,4.33,4.5,4.5,3.75
+516,Male,Single,Bachelor,Service,1 - 5 Years,Yes,Yes,Senior manager,Private,33,Strongly disagree,Strongly disagree,Strongly disagree,Strongly agree,Strongly agree,4.42,3.29,4.33,4.33,5,2.75,1
+517,Male,Single,Master,Construction,6 - 10 Years,Yes,No,Staff,State,33,Neither agree nor disagree,Agree,Strongly agree,Neither agree nor disagree,Disagree,3.5,3.43,2.67,3,5,2.75,2.75
+518,Male,Single,Master,Finance,1 - 5 Years,No,Yes,Operation manager,State,30,Disagree,Disagree,Disagree,Neither agree nor disagree,Disagree,3.17,2.43,3.83,2.83,4.5,1.75,2.25
+519,Male,Single,Bachelor,Finance,6 - 10 Years,No,No,Staff,State,29,Agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,2.42,4.14,4,3.83,5,1.75,1
+520,Male,Single,Master,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,30,Strongly disagree,Disagree,Strongly disagree,Agree,Agree,4.08,3,4.83,3.67,5,2.75,2.75
+521,Male,Single,Bachelor,Finance,1 - 5 Years,Yes,No,Staff,State,26,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.08,4.57,4.33,4.67,4.5,3.25,3
+522,Female,Single,Master,Finance,1 - 5 Years,No,Yes,Staff,State,27,Disagree,Disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,2.75,2.86,3,3.17,3,1.25,1
+523,Female,Single,Bachelor,Finance,1 - 5 Years,No,Yes,Staff,State,26,Agree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,2.25,2.86,1.83,3,3,2.5,2.25
+524,Male,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,39,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,3.67,3.29,3,3.5,4.5,3.75,3.75
+525,Male,Single,Bachelor,Finance,11 - 15 Years,Yes,Yes,Operation manager,State,42,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,2.67,1.86,3.5,4.17,3.5,1.75,2.25
+526,Male,Single,Bachelor,Finance,6 - 10 Years,No,No,Mid-level manager,Private,35,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Neither agree nor disagree,3.42,1.86,3.67,2.83,3.5,1.75,1.75
+527,Male,Single,Master,Health Care,21 + Years,No,Yes,Staff,State,42,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.67,1.86,3.33,2.67,5,1.5,2
+528,Male,Single,Bachelor,Finance,1 - 5 Years,Yes,Yes,Expert,Private,27,Agree,Agree,Strongly agree,Strongly agree,Agree,3.83,3.86,4,4.33,3.5,3.75,3.75
+529,Male,Single,Bachelor,Service,1 - 5 Years,Yes,No,Mid-level manager,Private,32,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,4.42,4.86,4.5,4.83,5,4.25,4
+530,Female,Single,Bachelor,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Agree,Agree,Neither agree nor disagree,Agree,Agree,4.25,3.14,4,3.83,4,3,3.25
+531,Female,Single,Bachelor,Construction,1 - 5 Years,No,No,Staff,State,28,Agree,Neither agree nor disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.92,2.29,3.33,3.17,3.5,2.75,3
+532,Male,Single,Master,Energy,6 - 10 Years,Yes,Yes,Expert,Private,32,Neither agree nor disagree,Disagree,Neither agree nor disagree,Agree,Agree,4,3.57,4.33,4,4.5,4.25,4.25
+533,Female,Single,Bachelor,Health Care,1 - 5 Years,Yes,Yes,Staff,State,25,Agree,Agree,Agree,Agree,Agree,4.25,3.71,4,3.83,5,4,4
+534,Male,Single,Master,Education,6 - 10 Years,Yes,No,Operation manager,State,29,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,3.83,4.71,3.5,4.83,4.5,4.5,4.25
+535,Male,Single,Master,Education,6 - 10 Years,Yes,No,Operation manager,State,29,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,3.83,4.71,3.5,4.83,4.5,4.5,4.25
+536,Male,Single,Bachelor,Finance,6 - 10 Years,Yes,Yes,Operation manager,State,35,Agree,Neither agree nor disagree,Neither agree nor disagree,Agree,Strongly agree,3.92,4,3.67,4.67,4,3.75,3.75
+537,Female,Single,Master,Health Care,11 - 15 Years,Yes,No,Mid-level manager,Private,34,Agree,Agree,Disagree,Agree,Agree,4,3.14,3.83,4,4,3,3
+538,Male,Single,Bachelor,Finance,16 - 20 Years,Yes,No,Mid-level manager,Private,38,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.83,4.71,4.83,5,5,4.25,4.25
+539,Male,Single,Bachelor,Service,6 - 10 Years,Yes,Yes,Expert,Private,34,Strongly agree,Strongly agree,Agree,Strongly agree,Strongly agree,4.17,4.43,4.17,4.33,4.5,4.75,4.5
+540,Male,Single,PhD,Education,11 - 15 Years,Yes,No,Staff,State,37,Strongly disagree,Strongly disagree,Strongly disagree,Disagree,Disagree,2.92,1.71,3,2.67,4,2.75,3
+541,Male,Single,Master,Information Technology,1 - 5 Years,Yes,Yes,Expert,Private,29,Neither agree nor disagree,Strongly disagree,Disagree,Strongly agree,Strongly agree,2.33,2.29,3.5,4.67,3,5,5
+542,Male,Single,Bachelor,Health Care,1 - 5 Years,No,Yes,Expert,Private,27,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.58,3.14,3.67,2.83,4,2.75,3
+543,Male,Single,Bachelor,Health Care,1 - 5 Years,No,Yes,Expert,Private,27,Neither agree nor disagree,Neither agree nor disagree,Disagree,Neither agree nor disagree,Neither agree nor disagree,3.58,3.14,3.67,2.83,4,2.75,3
+544,Male,Single,Master,Finance,1 - 5 Years,Yes,No,Expert,Private,27,Strongly disagree,Strongly disagree,Strongly disagree,Agree,Agree,3.58,2.57,3.83,3.67,5,3.5,3.5
+545,Female,Single,Bachelor,Health Care,6 - 10 Years,No,No,Mid-level manager,Private,33,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,Strongly disagree,1.67,1.14,2,1.33,1.5,1,1
+546,Male,Single,Master,Education,11 - 15 Years,Yes,Yes,Staff,State,41,Neither agree nor disagree,Neither agree nor disagree,Disagree,Agree,Agree,3.58,3.14,3.83,3.33,4.5,3.5,3.5
+547,Male,Single,Master,Education,6 - 10 Years,Yes,Yes,Senior manager,Private,31,Strongly agree,Strongly agree,Strongly agree,Strongly agree,Strongly agree,3.75,4.71,4,4.5,5,4.25,4
+548,Male,Single,Master,Energy,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,3.83,4.29,3.33,4.5,4.5,4,4.5
+549,Male,Single,Bachelor,Production,6 - 10 Years,Yes,Yes,Mid-level manager,Private,32,Neither agree nor disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Agree,4,3.71,3.83,3.33,4.5,3.75,4.25
+550,Male,Single,PhD,Education,16 - 20 Years,Yes,No,Mid-level manager,Private,40,Agree,Neither agree nor disagree,Agree,Strongly agree,Agree,3.83,3.43,3.83,4.33,3,3,3
+551,Male,Single,Bachelor,Education,1 - 5 Years,Yes,No,Staff,State,28,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,4.67,4,4.17,4.17,4.5,4.75,5
+552,Female,Single,Master,Education,6 - 10 Years,Yes,No,Mid-level manager,Private,34,Strongly agree,Agree,Neither agree nor disagree,Agree,Agree,4.08,3.86,4.5,4.5,4,3.25,4
+553,Male,Single,Master,Health Care,11 - 15 Years,Yes,Yes,Mid-level manager,Private,33,Strongly agree,Disagree,Disagree,Agree,Agree,3.67,2.57,3.67,3.33,5,4.5,4.25
+554,Male,Single,Master,Education,11 - 15 Years,Yes,No,Mid-level manager,Private,43,Agree,Disagree,Disagree,Agree,Agree,4.17,3.14,4,4.5,5,3.5,3.5
+555,Male,Single,Master,Education,16 - 20 Years,Yes,No,Mid-level manager,Private,42,Agree,Agree,Neither agree nor disagree,Agree,Strongly agree,3.58,3.86,4.17,4.33,3,3.75,4
+556,Male,Single,Bachelor,Education,16 - 20 Years,Yes,Yes,Expert,Private,48,Neither agree nor disagree,Neither agree nor disagree,Neither agree nor disagree,Agree,Agree,3.42,3.43,3.83,4,4,3.75,4.25
+557,Male,Single,Bachelor,Production,1 - 5 Years,No,No,Operation manager,State,25,Disagree,Neither agree nor disagree,Agree,Neither agree nor disagree,Neither agree nor disagree,3.42,3,3,3.17,3,3,3
+558,Male,Single,PhD,Education,21 + Years,No,No,Senior manager,Private,44,Disagree,Disagree,Strongly disagree,Neither agree nor disagree,Neither agree nor disagree,2.67,1.71,3.5,3.33,3,3.5,3.5
+559,Male,Single,Master,Education,6 - 10 Years,Yes,No,Mid-level manager,Private,40,Agree,Agree,Disagree,Strongly agree,Strongly agree,4,3.71,3.83,5,3.5,3.25,3.25
+560,Male,Single,Bachelor,Finance,1 - 5 Years,Yes,Yes,Mid-level manager,Private,21,Agree,Agree,Strongly agree,Agree,Agree,4.17,4.29,3.67,4.17,4.5,3.5,3.5
+561,Female,Single,Master,Education,11 - 15 Years,Yes,Yes,Expert,Private,35,Agree,Agree,Agree,Strongly agree,Strongly agree,4.17,3.86,4,4.67,4,3.25,3.5
+562,Male,Single,Bachelor,Health Care,6 - 10 Years,Yes,Yes,Mid-level manager,Private,29,Agree,Disagree,Disagree,Strongly agree,Agree,4.17,2.71,3.5,3.83,4.5,1,1
+563,Male,Single,Master,Health Care,16 - 20 Years,Yes,No,Staff,State,42,Disagree,Strongly disagree,Strongly disagree,Agree,Strongly agree,1.42,1.43,2.33,2.5,1.5,3.25,2.25
+564,Male,Single,Master,Finance,1 - 5 Years,Yes,Yes,Expert,Private,31,Neither agree nor disagree,Disagree,Strongly disagree,Agree,Agree,2.92,2.14,1,3.83,5,1.25,1.5
